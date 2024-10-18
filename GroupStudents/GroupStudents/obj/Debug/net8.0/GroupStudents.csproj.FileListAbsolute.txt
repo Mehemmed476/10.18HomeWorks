@@ -1,0 +1,14 @@
+/Users/mehemmedxelilzade/RiderProjects/GroupStudents/GroupStudents/obj/Debug/net8.0/GroupStudents.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehemmedxelilzade/RiderProjects/GroupStudents/GroupStudents/obj/Debug/net8.0/GroupStudents.AssemblyInfoInputs.cache
+/Users/mehemmedxelilzade/RiderProjects/GroupStudents/GroupStudents/obj/Debug/net8.0/GroupStudents.AssemblyInfo.cs
+/Users/mehemmedxelilzade/RiderProjects/GroupStudents/GroupStudents/obj/Debug/net8.0/GroupStudents.csproj.CoreCompileInputs.cache
+/Users/mehemmedxelilzade/RiderProjects/GroupStudents/GroupStudents/bin/Debug/net8.0/GroupStudents
+/Users/mehemmedxelilzade/RiderProjects/GroupStudents/GroupStudents/bin/Debug/net8.0/GroupStudents.deps.json
+/Users/mehemmedxelilzade/RiderProjects/GroupStudents/GroupStudents/bin/Debug/net8.0/GroupStudents.runtimeconfig.json
+/Users/mehemmedxelilzade/RiderProjects/GroupStudents/GroupStudents/bin/Debug/net8.0/GroupStudents.dll
+/Users/mehemmedxelilzade/RiderProjects/GroupStudents/GroupStudents/bin/Debug/net8.0/GroupStudents.pdb
+/Users/mehemmedxelilzade/RiderProjects/GroupStudents/GroupStudents/obj/Debug/net8.0/GroupStudents.dll
+/Users/mehemmedxelilzade/RiderProjects/GroupStudents/GroupStudents/obj/Debug/net8.0/refint/GroupStudents.dll
+/Users/mehemmedxelilzade/RiderProjects/GroupStudents/GroupStudents/obj/Debug/net8.0/GroupStudents.pdb
+/Users/mehemmedxelilzade/RiderProjects/GroupStudents/GroupStudents/obj/Debug/net8.0/GroupStudents.genruntimeconfig.cache
+/Users/mehemmedxelilzade/RiderProjects/GroupStudents/GroupStudents/obj/Debug/net8.0/ref/GroupStudents.dll
