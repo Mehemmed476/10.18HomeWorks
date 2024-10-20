@@ -6,8 +6,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        string userUserName = "MehemmedAye";
-        string userPassword = "Efsanem1!";
+        string userUserName = "MehemmedAli";
+        string userPassword = "ThisIsPassword123!@";
         string userFirstName = "Mehemmed";
         string userLastName = "Xelilzade";
         byte userAge = 20;
