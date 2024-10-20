@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mehemmedxelilzade/RiderProjects/AccessModifiersTask/AccessModifiersTask/AccessModifiersTask.csproj": {}
+  },
+  "projects": {
+    "/Users/mehemmedxelilzade/RiderProjects/AccessModifiersTask/AccessModifiersTask/AccessModifiersTask.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mehemmedxelilzade/RiderProjects/AccessModifiersTask/AccessModifiersTask/AccessModifiersTask.csproj",
+        "projectName": "AccessModifiersTask",
+        "projectPath": "/Users/mehemmedxelilzade/RiderProjects/AccessModifiersTask/AccessModifiersTask/AccessModifiersTask.csproj",
+        "packagesPath": "/Users/mehemmedxelilzade/.nuget/packages/",
+        "outputPath": "/Users/mehemmedxelilzade/RiderProjects/AccessModifiersTask/AccessModifiersTask/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mehemmedxelilzade/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/mehemmedxelilzade/RiderProjects/AccessModifiersTask/CustomValidator/CustomValidator.csproj": {
+                "projectPath": "/Users/mehemmedxelilzade/RiderProjects/AccessModifiersTask/CustomValidator/CustomValidator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.8/libexec/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mehemmedxelilzade/RiderProjects/AccessModifiersTask/CustomValidator/CustomValidator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mehemmedxelilzade/RiderProjects/AccessModifiersTask/CustomValidator/CustomValidator.csproj",
+        "projectName": "CustomValidator",
+        "projectPath": "/Users/mehemmedxelilzade/RiderProjects/AccessModifiersTask/CustomValidator/CustomValidator.csproj",
+        "packagesPath": "/Users/mehemmedxelilzade/.nuget/packages/",
+        "outputPath": "/Users/mehemmedxelilzade/RiderProjects/AccessModifiersTask/CustomValidator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mehemmedxelilzade/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.8/libexec/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

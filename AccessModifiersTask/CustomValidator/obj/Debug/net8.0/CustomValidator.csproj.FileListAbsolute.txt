@@ -1,0 +1,11 @@
+/Users/mehemmedxelilzade/RiderProjects/AccessModifiersTask/CustomValidator/bin/Debug/net8.0/CustomValidator.deps.json
+/Users/mehemmedxelilzade/RiderProjects/AccessModifiersTask/CustomValidator/bin/Debug/net8.0/CustomValidator.dll
+/Users/mehemmedxelilzade/RiderProjects/AccessModifiersTask/CustomValidator/bin/Debug/net8.0/CustomValidator.pdb
+/Users/mehemmedxelilzade/RiderProjects/AccessModifiersTask/CustomValidator/obj/Debug/net8.0/CustomValidator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehemmedxelilzade/RiderProjects/AccessModifiersTask/CustomValidator/obj/Debug/net8.0/CustomValidator.AssemblyInfoInputs.cache
+/Users/mehemmedxelilzade/RiderProjects/AccessModifiersTask/CustomValidator/obj/Debug/net8.0/CustomValidator.AssemblyInfo.cs
+/Users/mehemmedxelilzade/RiderProjects/AccessModifiersTask/CustomValidator/obj/Debug/net8.0/CustomValidator.csproj.CoreCompileInputs.cache
+/Users/mehemmedxelilzade/RiderProjects/AccessModifiersTask/CustomValidator/obj/Debug/net8.0/CustomValidator.dll
+/Users/mehemmedxelilzade/RiderProjects/AccessModifiersTask/CustomValidator/obj/Debug/net8.0/refint/CustomValidator.dll
+/Users/mehemmedxelilzade/RiderProjects/AccessModifiersTask/CustomValidator/obj/Debug/net8.0/CustomValidator.pdb
+/Users/mehemmedxelilzade/RiderProjects/AccessModifiersTask/CustomValidator/obj/Debug/net8.0/ref/CustomValidator.dll

@@ -1,0 +1,14 @@
+/Users/mehemmedxelilzade/RiderProjects/WeaponTask/WeaponTask/bin/Debug/net8.0/WeaponTask
+/Users/mehemmedxelilzade/RiderProjects/WeaponTask/WeaponTask/bin/Debug/net8.0/WeaponTask.deps.json
+/Users/mehemmedxelilzade/RiderProjects/WeaponTask/WeaponTask/bin/Debug/net8.0/WeaponTask.runtimeconfig.json
+/Users/mehemmedxelilzade/RiderProjects/WeaponTask/WeaponTask/bin/Debug/net8.0/WeaponTask.dll
+/Users/mehemmedxelilzade/RiderProjects/WeaponTask/WeaponTask/bin/Debug/net8.0/WeaponTask.pdb
+/Users/mehemmedxelilzade/RiderProjects/WeaponTask/WeaponTask/obj/Debug/net8.0/WeaponTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehemmedxelilzade/RiderProjects/WeaponTask/WeaponTask/obj/Debug/net8.0/WeaponTask.AssemblyInfoInputs.cache
+/Users/mehemmedxelilzade/RiderProjects/WeaponTask/WeaponTask/obj/Debug/net8.0/WeaponTask.AssemblyInfo.cs
+/Users/mehemmedxelilzade/RiderProjects/WeaponTask/WeaponTask/obj/Debug/net8.0/WeaponTask.csproj.CoreCompileInputs.cache
+/Users/mehemmedxelilzade/RiderProjects/WeaponTask/WeaponTask/obj/Debug/net8.0/WeaponTask.dll
+/Users/mehemmedxelilzade/RiderProjects/WeaponTask/WeaponTask/obj/Debug/net8.0/refint/WeaponTask.dll
+/Users/mehemmedxelilzade/RiderProjects/WeaponTask/WeaponTask/obj/Debug/net8.0/WeaponTask.pdb
+/Users/mehemmedxelilzade/RiderProjects/WeaponTask/WeaponTask/obj/Debug/net8.0/WeaponTask.genruntimeconfig.cache
+/Users/mehemmedxelilzade/RiderProjects/WeaponTask/WeaponTask/obj/Debug/net8.0/ref/WeaponTask.dll
