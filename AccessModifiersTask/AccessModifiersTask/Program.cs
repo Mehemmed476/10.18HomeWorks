@@ -1,4 +1,6 @@
-﻿namespace AccessModifiersTask;
+﻿using AccessModifiersTask.Models;
+
+namespace AccessModifiersTask;
 
 class Program
 {
@@ -14,11 +16,5 @@ class Program
         Person newPerson = new Person(userUserName, userPassword, userFirstName, userLastName, userAge, userBirthday);
 
         newPerson.GetInfo();
-
-
-
-
-
-
     }
 }

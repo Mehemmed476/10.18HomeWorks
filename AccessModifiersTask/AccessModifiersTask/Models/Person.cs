@@ -1,7 +1,7 @@
 using System.Runtime.InteropServices.JavaScript;
 using CustomValidator;
 
-namespace AccessModifiersTask;
+namespace AccessModifiersTask.Models;
 
 public class Person : Validator
 {
