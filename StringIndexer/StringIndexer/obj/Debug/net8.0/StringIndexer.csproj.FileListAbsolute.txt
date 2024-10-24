@@ -1,0 +1,14 @@
+/Users/mehemmedxelilzade/RiderProjects/StringIndexer/StringIndexer/bin/Debug/net8.0/StringIndexer
+/Users/mehemmedxelilzade/RiderProjects/StringIndexer/StringIndexer/bin/Debug/net8.0/StringIndexer.deps.json
+/Users/mehemmedxelilzade/RiderProjects/StringIndexer/StringIndexer/bin/Debug/net8.0/StringIndexer.runtimeconfig.json
+/Users/mehemmedxelilzade/RiderProjects/StringIndexer/StringIndexer/bin/Debug/net8.0/StringIndexer.dll
+/Users/mehemmedxelilzade/RiderProjects/StringIndexer/StringIndexer/bin/Debug/net8.0/StringIndexer.pdb
+/Users/mehemmedxelilzade/RiderProjects/StringIndexer/StringIndexer/obj/Debug/net8.0/StringIndexer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehemmedxelilzade/RiderProjects/StringIndexer/StringIndexer/obj/Debug/net8.0/StringIndexer.AssemblyInfoInputs.cache
+/Users/mehemmedxelilzade/RiderProjects/StringIndexer/StringIndexer/obj/Debug/net8.0/StringIndexer.AssemblyInfo.cs
+/Users/mehemmedxelilzade/RiderProjects/StringIndexer/StringIndexer/obj/Debug/net8.0/StringIndexer.csproj.CoreCompileInputs.cache
+/Users/mehemmedxelilzade/RiderProjects/StringIndexer/StringIndexer/obj/Debug/net8.0/StringIndexer.dll
+/Users/mehemmedxelilzade/RiderProjects/StringIndexer/StringIndexer/obj/Debug/net8.0/refint/StringIndexer.dll
+/Users/mehemmedxelilzade/RiderProjects/StringIndexer/StringIndexer/obj/Debug/net8.0/StringIndexer.pdb
+/Users/mehemmedxelilzade/RiderProjects/StringIndexer/StringIndexer/obj/Debug/net8.0/StringIndexer.genruntimeconfig.cache
+/Users/mehemmedxelilzade/RiderProjects/StringIndexer/StringIndexer/obj/Debug/net8.0/ref/StringIndexer.dll
