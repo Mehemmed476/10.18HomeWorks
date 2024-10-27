@@ -1,0 +1,14 @@
+/Users/mehemmedxelilzade/RiderProjects/ReflectionTask/ReflectionTask/bin/Debug/net8.0/ReflectionTask
+/Users/mehemmedxelilzade/RiderProjects/ReflectionTask/ReflectionTask/bin/Debug/net8.0/ReflectionTask.deps.json
+/Users/mehemmedxelilzade/RiderProjects/ReflectionTask/ReflectionTask/bin/Debug/net8.0/ReflectionTask.runtimeconfig.json
+/Users/mehemmedxelilzade/RiderProjects/ReflectionTask/ReflectionTask/bin/Debug/net8.0/ReflectionTask.dll
+/Users/mehemmedxelilzade/RiderProjects/ReflectionTask/ReflectionTask/bin/Debug/net8.0/ReflectionTask.pdb
+/Users/mehemmedxelilzade/RiderProjects/ReflectionTask/ReflectionTask/obj/Debug/net8.0/ReflectionTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehemmedxelilzade/RiderProjects/ReflectionTask/ReflectionTask/obj/Debug/net8.0/ReflectionTask.AssemblyInfoInputs.cache
+/Users/mehemmedxelilzade/RiderProjects/ReflectionTask/ReflectionTask/obj/Debug/net8.0/ReflectionTask.AssemblyInfo.cs
+/Users/mehemmedxelilzade/RiderProjects/ReflectionTask/ReflectionTask/obj/Debug/net8.0/ReflectionTask.csproj.CoreCompileInputs.cache
+/Users/mehemmedxelilzade/RiderProjects/ReflectionTask/ReflectionTask/obj/Debug/net8.0/ReflectionTask.dll
+/Users/mehemmedxelilzade/RiderProjects/ReflectionTask/ReflectionTask/obj/Debug/net8.0/refint/ReflectionTask.dll
+/Users/mehemmedxelilzade/RiderProjects/ReflectionTask/ReflectionTask/obj/Debug/net8.0/ReflectionTask.pdb
+/Users/mehemmedxelilzade/RiderProjects/ReflectionTask/ReflectionTask/obj/Debug/net8.0/ReflectionTask.genruntimeconfig.cache
+/Users/mehemmedxelilzade/RiderProjects/ReflectionTask/ReflectionTask/obj/Debug/net8.0/ref/ReflectionTask.dll
